@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Blowfish"
+title = "Infinite Scope Consulting"
 
 [params]
   displayName = "EN"
@@ -11,19 +11,19 @@ title = "Blowfish"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
-  # copyright = "Copy, _right?_ :thinking_face:"
+  # description = "For all of your needs."
+  # copyright = "Copy, _right?_ :thinking_face: (C) Infinite Scope Consulting LLC"
 
-# [params.author]
-#   name = "Your name here"
-#   email = "youremail@example.com"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
-#     { link = "https://link-to-some-website.com/" },
+ [params.author]
+   name = "Brett Aulabaugh"
+   email = "brett@infinitescope.limited"
+   image = "img/blowfish_logo.png"
+   imageQuality = 96
+   headline = "I'm only human"
+   bio = "Human, Hacker, Educator, Cybermystic, Anarchist, and Artist"
+   links = [
+     { email = "mailto:brett@infinitescope.limited" },
+     { link = "https://infinitescope.limited" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
@@ -76,4 +76,4 @@ title = "Blowfish"
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
 #     { printables = "https://www.printables.com/@username"},
-#   ]
+   ]
