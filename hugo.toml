@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://infinitescope.limited'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Infinite Scope Consulting'
 theme = 'blowfish'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
